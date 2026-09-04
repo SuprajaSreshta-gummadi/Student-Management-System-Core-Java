@@ -43,7 +43,7 @@ StudentManagementSystem
 ## How to Run
 
 1. Download or clone this repository.
-2. Open `Main.java` in a Java compiler or IDE.
+2. Open `code.java` in a Java compiler or IDE.
 3. Compile and run the program.
 4. Select an option from the menu.
 
